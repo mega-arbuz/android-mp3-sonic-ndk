@@ -1,6 +1,6 @@
 # Android MP3 player with Sonic NDK
 This is a simple demo app that decodes MP3 and plays it with Sonic. Sonic is a native library that allows changing speech rate, speed and pitch.
-The project targets Android API 28 and compiles with Cmake.
+The project targets Android API 27 and compiles with Cmake.
 
 ## Motivation
 There are some Android projects with Sonic, but they are mostly old Eclipse projects that won't compile in new versions of Android Studio. I've decided to make this sample app, that will be used as a reference for anyone who want to build his own player with Sonic NDK implementation.
