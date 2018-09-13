@@ -18,3 +18,5 @@ You can find old examples of Sonic with mpg123 decoder, but it's a mess to compi
 
 ## Using this project
 The project is licensed under Apache 2.0, you can use this project for any purpose. Keep in mind that the intention is to make the code as simple as possible. This is not optimized and has a bad structure, so you don't want to use it as is :)
+
+![alt text](https://github.com/mega-arbuz/android-mp3-sonic-ndk/blob/master/media/screenshot_main_screen.png "Screenshot - Main screen")
