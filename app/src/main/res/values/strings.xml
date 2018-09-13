@@ -1,0 +1,37 @@
+<!--
+  ~ Copyright (C) 2018 Oleg Shnaydman
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~       http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Mp3 Sonic Player</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="timer">00:00:00</string>
+    <string name="speed">Speed</string>
+    <string name="pitch">Pitch</string>
+    <string name="rate">Rate</string>
+    <string name="set">Set</string>
+    <string name="default_param">1.0</string>
+    <string name="player_type">Player Type</string>
+    <string name="player_android">Simple</string>
+    <string name="player_sonic">Sonic</string>
+    <string name="file">Audio File</string>
+    <string name="audio_file">Audio File</string>
+    <string name="file_short">Alice Short</string>
+    <string name="file_long">Alice Long</string>
+</resources>
