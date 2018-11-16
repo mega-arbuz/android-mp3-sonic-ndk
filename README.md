@@ -27,4 +27,4 @@ You can find old examples of Sonic with mpg123 decoder, but it's a mess to compi
 * Choose between Sonic and regular Android AudioTrack (the difference between the classes can be used as a guide on how to integrate Sonic into existing project)
 * Track time
 
-![https://github.com/android10/Sample-Data/blob/master/android10/android10_logo_big.png](https://github.com/mega-arbuz/android-mp3-sonic-ndk/blob/master/media/screenshot_main.png "Screenshot - Main")
+![https://github.com/mega-arbuz/android-mp3-sonic-ndk/blob/master/media/screenshot_main.png](https://github.com/mega-arbuz/android-mp3-sonic-ndk/blob/master/media/screenshot_main.png "Screenshot - Main")
